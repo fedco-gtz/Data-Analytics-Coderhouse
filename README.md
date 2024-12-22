@@ -9,14 +9,15 @@ Tutora Pedagógica: BATISTA, Fernando Sebastian &nbsp;&nbsp;[<img src="./Images/
 Estudiante: Federico Gutierrez &nbsp;&nbsp;[<img src="./Images/Readme/Gmail.png" alt="Gmail Logo" width="26" height="20">](mailto:gutierrezfedericog@gmail.com)
 _________________________________________________________________________________________________________
 ## ÍNDICE 
-1. [Unidades](#unidades)
-2. [Entregas](#entregas)
-3. [Actividades Prácticas](#actividades-prácticas)
-4. [Actualizaciones del Proyecto Final](#actualizaciones-del-proyecto-final)
-5. [Redes sociales y proyectos](#redes-sociales-y-proyectos)
-6. [Certificación](#certificación)
+1. [Unidades](#unidades) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-25%25-brightgreen.svg)
+2. [Entregas](#entregas) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-0%25-brightgreen.svg)
+3. [Quizzes](#quizzes)  &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-18.18%25-brightgreen.svg)
+4. [Actividades Prácticas](#actividades-prácticas) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-0.00%25-brightgreen.svg)
+5. [Actualizaciones del Proyecto Final](#actualizaciones-del-proyecto-final)
+6. [Redes sociales y proyectos](#redes-sociales-y-proyectos)
+7. [Certificación](#certificación)
 _________________________________________________________________________________________________________
-### UNIDADES &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-25%25-brightgreen.svg)
+### UNIDADES
 
 - [x] 00 | Onboarding &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1J7e7oA8oBIiDU-qIuHFaBNXg9zVNT5ov?usp=sharing)
 - [x] 01 | Introducción al Análisis de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1k8whIh05hm8LMOxIM0kFcvwqI3pHsYMx?usp=sharing)
@@ -32,7 +33,7 @@ ________________________________________________________________________________
 - [ ] 11 | IA para Data Analytics &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 
 _________________________________________________________________________________________________________
-### ENTREGAS &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-0%25-brightgreen.svg)
+### ENTREGAS
 
 - [ ] 01 | Primer Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 02 | Segunda Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
@@ -40,7 +41,22 @@ ________________________________________________________________________________
 - [ ] 04 | Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 
 ______________________________________________________________________________________________________
-### ACTIVIDADES PRÁCTICAS &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-0.00%25-brightgreen.svg)
+### QUIZZES
+
+- [x] 01 | Introducción al Análisis de Datos
+- [x] 02 | Modelos y Diseño de Bases de Datos 
+- [ ] 03 | Introducción a SQL y Sublenguajes 
+- [ ] 04 | Sintaxis SQL y Manipulación de Datos 
+- [ ] 05 | Consultas SQL con Join y Union 
+- [ ] 06 | Historias con Datos y Gráficos Eficientes 
+- [ ] 07 | Introducción a Power BI y Transformación de Datos 
+- [ ] 08 | Dimensiones y Medidas en Power BI 
+- [ ] 09 | Gráficos y Segmentaciones en Power BI 
+- [ ] 10 | Medidas de Tendencia Central 
+- [ ] 11 | IA para Data Analytics
+
+______________________________________________________________________________________________________
+### ACTIVIDADES PRÁCTICAS
 
 - [ ] Semana 1 | Introducción al Generative AI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] Semana 2 | Creación de contenido escrito con Generative AI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
