@@ -57,7 +57,7 @@ ________________________________________________________________________________
 ### ACTIVIDADES PRÁCTICAS
 
 - [x] 01 | Introducción al Análisis de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/file/d/1-FxBT39cvSQmVzdmfNXYPJkhHMYNm2Ld/view?usp=sharing)
-- [x] 02 | Modelos y Diseño de Bases de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/file/d/1_POn2799NoqfRXmanQYlXZVcZ_x_B0xG/view?usp=sharing)
+- [x] 02 | Modelos y Diseño de Bases de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/file/d/1Wl-4i8IZGIJCC2wEidFdh8uyTZQ9tooN/view?usp=sharing)
 - [ ] 03 | Introducción a SQL y Sublenguajes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 04 | Sintaxis SQL y Manipulación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 05 | Consultas SQL con Join y Union &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
