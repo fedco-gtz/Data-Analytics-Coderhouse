@@ -8,12 +8,12 @@ Tutora Pedagógica: BATISTA, Fernando Sebastian &nbsp;&nbsp;[<img src="./Images/
 
 Estudiante: Federico Gutierrez &nbsp;&nbsp;[<img src="./Images/Readme/Gmail.png" alt="Gmail Logo" width="26" height="20">](mailto:gutierrezfedericog@gmail.com)
 _________________________________________________________________________________________________________
-## ÍNDICE 
+## ÍNDICE
 
-1. [Unidades](#unidades) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-25.00%25-brightgreen.svg)
-2. [Entregas](#entregas) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-0.00%25-brightgreen.svg)
-3. [Quizzes](#quizzes)  &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-18.18%25-brightgreen.svg)
-4. [Actividades Prácticas](#actividades-prácticas) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-0.00%25-brightgreen.svg)
+1. [Unidades](#unidades) 
+2. [Entregas](#entregas) 
+3. [Quizzes](#quizzes)  
+4. [Actividades Prácticas](#actividades-prácticas) 
 5. [Actualizaciones del Proyecto Final](#actualizaciones-del-proyecto-final)
 6. [Redes sociales y proyectos](#redes-sociales-y-proyectos)
 7. [Certificación](#certificación)
@@ -56,12 +56,17 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________
 ### ACTIVIDADES PRÁCTICAS
 
-- [ ] Semana 1 | Introducción al Generative AI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] Semana 2 | Creación de contenido escrito con Generative AI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] Semana 3 | Creación de imágenes con Generative AI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] Semana 4 | Creación de Audio con Generative IA &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] Semana 5 | Diseño y Programación en IA &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] Semana 6 | Desarrollo de mi portfolio con IA &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [x] 01 | Introducción al Análisis de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/file/d/1-FxBT39cvSQmVzdmfNXYPJkhHMYNm2Ld/view?usp=sharing)
+- [x] 02 | Modelos y Diseño de Bases de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/file/d/1_POn2799NoqfRXmanQYlXZVcZ_x_B0xG/view?usp=sharing)
+- [ ] 03 | Introducción a SQL y Sublenguajes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [ ] 04 | Sintaxis SQL y Manipulación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [ ] 05 | Consultas SQL con Join y Union &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [ ] 06 | Historias con Datos y Gráficos Eficientes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [ ] 07 | Introducción a Power BI y Transformación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [ ] 08 | Dimensiones y Medidas en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [ ] 09 | Gráficos y Segmentaciones en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [ ] 10 | Medidas de Tendencia Central &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [ ] 11 | IA para Data Analytics &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 _________________________________________________________________________________________________________
 ### ACTUALIZACIONES DEL PROYECTO FINAL
 
