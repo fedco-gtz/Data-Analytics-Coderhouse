@@ -9,8 +9,9 @@ Tutora Pedagógica: BATISTA, Fernando Sebastian &nbsp;&nbsp;[<img src="./Images/
 Estudiante: Federico Gutierrez &nbsp;&nbsp;[<img src="./Images/Readme/Gmail.png" alt="Gmail Logo" width="26" height="20">](mailto:gutierrezfedericog@gmail.com)
 _________________________________________________________________________________________________________
 ## ÍNDICE 
-1. [Unidades](#unidades) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-25%25-brightgreen.svg)
-2. [Entregas](#entregas) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-0%25-brightgreen.svg)
+
+1. [Unidades](#unidades) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-25.00%25-brightgreen.svg)
+2. [Entregas](#entregas) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-0.00%25-brightgreen.svg)
 3. [Quizzes](#quizzes)  &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-18.18%25-brightgreen.svg)
 4. [Actividades Prácticas](#actividades-prácticas) &nbsp;&nbsp;![Progreso](https://img.shields.io/badge/Progreso-0.00%25-brightgreen.svg)
 5. [Actualizaciones del Proyecto Final](#actualizaciones-del-proyecto-final)
@@ -31,21 +32,19 @@ ________________________________________________________________________________
 - [ ] 09 | Gráficos y Segmentaciones en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 10 | Medidas de Tendencia Central &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 11 | IA para Data Analytics &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-
 _________________________________________________________________________________________________________
 ### ENTREGAS
 
-- [ ] 01 | Primer Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
+- [x] 01 | Primer Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1fzd4JpppN3mJ_6y5tfczJ3pLCbgI4uVq?usp=sharing)
 - [ ] 02 | Segunda Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 03 | Tercer Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 04 | Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-
 ______________________________________________________________________________________________________
 ### QUIZZES
 
 - [x] 01 | Introducción al Análisis de Datos
 - [x] 02 | Modelos y Diseño de Bases de Datos 
-- [ ] 03 | Introducción a SQL y Sublenguajes 
+- [x] 03 | Introducción a SQL y Sublenguajes 
 - [ ] 04 | Sintaxis SQL y Manipulación de Datos 
 - [ ] 05 | Consultas SQL con Join y Union 
 - [ ] 06 | Historias con Datos y Gráficos Eficientes 
@@ -54,7 +53,6 @@ ________________________________________________________________________________
 - [ ] 09 | Gráficos y Segmentaciones en Power BI 
 - [ ] 10 | Medidas de Tendencia Central 
 - [ ] 11 | IA para Data Analytics
-
 ______________________________________________________________________________________________________
 ### ACTIVIDADES PRÁCTICAS
 
@@ -68,7 +66,7 @@ ________________________________________________________________________________
 ### ACTUALIZACIONES DEL PROYECTO FINAL
 
 - **Última actualización - 22/12/2024**
-    - **Entrega de Primer Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">]()
+    - **Entrega de Primer Pre-Entrega 22/12/2024** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGY8ChODpY/u7vdFib6uXa4anPVNzPTvg/view?utm_content=DAGY8ChODpY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06869e9c5b)
     - **Entrega de Segunda Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">]()
     - **Entrega de Tercer Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">]()
     - **Entrega de Proyecto Final xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">]()
@@ -118,5 +116,5 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________
 ### CERTIFICACIÓN
 
-[<img src="./Images/Readme/Certificado.png" alt="Certificado Logo" width="100" height="100">]()
+[<img src="./Images/Readme/Certificado.png" alt="Certificado Logo" width="100" height="100">](https://www.canva.com/design/DAGY8AZYNGU/19gsoofpUrmgJZSq0vCA_Q/view?utm_content=DAGY8AZYNGU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac51791f4e)
 ______________________________________________________________________________________________________
