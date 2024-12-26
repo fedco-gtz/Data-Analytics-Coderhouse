@@ -25,8 +25,8 @@ ________________________________________________________________________________
 - [x] 02 | Modelos y Diseño de Bases de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1MYpQAeJIufLlU1AuKPv_YUejKjPHRiQs?usp=sharing)
 - [x] 03 | Introducción a SQL y Sublenguajes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1ztm8SaSqkvwnlcRkOTgjkhlrmBm4Vu4t?usp=sharing)
 - [x] 04 | Sintaxis SQL y Manipulación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1ztm8SaSqkvwnlcRkOTgjkhlrmBm4Vu4t?usp=sharing)
-- [ ] 05 | Consultas SQL con Join y Union &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1g208P_wvfufUmvZ6FWU8pnSaNYVkUT4m?usp=sharing)
-- [ ] 06 | Historias con Datos y Gráficos Eficientes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/17dOxs28Wb2PsX_kRkgBo0eojeVvoCtxl?usp=sharing)
+- [x] 05 | Consultas SQL con Join y Union &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1g208P_wvfufUmvZ6FWU8pnSaNYVkUT4m?usp=sharing)
+- [x] 06 | Historias con Datos y Gráficos Eficientes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/17dOxs28Wb2PsX_kRkgBo0eojeVvoCtxl?usp=sharing)
 - [ ] 07 | Introducción a Power BI y Transformación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1W6_NBN48sfspnGrdyEiQy7tn-bUF2rHL?usp=sharing)
 - [ ] 08 | Dimensiones y Medidas en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1Ziqg4PG_d05bMnbF4NoYPWLUs_iScirY?usp=sharing)
 - [ ] 09 | Gráficos y Segmentaciones en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/18G_LlU7eOt1pkAXHckwcuG63AfukIWzo?usp=sharing)
@@ -46,8 +46,8 @@ ________________________________________________________________________________
 - [x] 02 | Modelos y Diseño de Bases de Datos 
 - [x] 03 | Introducción a SQL y Sublenguajes 
 - [x] 04 | Sintaxis SQL y Manipulación de Datos 
-- [ ] 05 | Consultas SQL con Join y Union 
-- [ ] 06 | Historias con Datos y Gráficos Eficientes 
+- [x] 05 | Consultas SQL con Join y Union 
+- [x] 06 | Historias con Datos y Gráficos Eficientes 
 - [ ] 07 | Introducción a Power BI y Transformación de Datos 
 - [ ] 08 | Dimensiones y Medidas en Power BI 
 - [ ] 09 | Gráficos y Segmentaciones en Power BI 
@@ -70,7 +70,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 ### ACTUALIZACIONES DEL PROYECTO FINAL
 
-- **Última actualización - 24/12/2024**
+- **Última actualización - 26/12/2024**
     - **Entrega de Primer Pre-Entrega 22/12/2024** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGY8ChODpY/u7vdFib6uXa4anPVNzPTvg/view?utm_content=DAGY8ChODpY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06869e9c5b)
     - **Entrega de Segunda Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
     - **Entrega de Tercer Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
