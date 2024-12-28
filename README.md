@@ -27,11 +27,11 @@ ________________________________________________________________________________
 - [x] 04 | Sintaxis SQL y Manipulación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1ztm8SaSqkvwnlcRkOTgjkhlrmBm4Vu4t?usp=sharing)
 - [x] 05 | Consultas SQL con Join y Union &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1g208P_wvfufUmvZ6FWU8pnSaNYVkUT4m?usp=sharing)
 - [x] 06 | Historias con Datos y Gráficos Eficientes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/17dOxs28Wb2PsX_kRkgBo0eojeVvoCtxl?usp=sharing)
-- [ ] 07 | Introducción a Power BI y Transformación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1W6_NBN48sfspnGrdyEiQy7tn-bUF2rHL?usp=sharing)
-- [ ] 08 | Dimensiones y Medidas en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1Ziqg4PG_d05bMnbF4NoYPWLUs_iScirY?usp=sharing)
-- [ ] 09 | Gráficos y Segmentaciones en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/18G_LlU7eOt1pkAXHckwcuG63AfukIWzo?usp=sharing)
-- [ ] 10 | Medidas de Tendencia Central &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1D75tiOYjTNgl-ofUuOnh4vMXfHEPnQai?usp=sharing)
-- [ ] 11 | IA para Data Analytics &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1RLXf7eIytH9czjxb141wZ9VsQ7VRempE?usp=sharing)
+- [x] 07 | Introducción a Power BI y Transformación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1W6_NBN48sfspnGrdyEiQy7tn-bUF2rHL?usp=sharing)
+- [x] 08 | Dimensiones y Medidas en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1Ziqg4PG_d05bMnbF4NoYPWLUs_iScirY?usp=sharing)
+- [x] 09 | Gráficos y Segmentaciones en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/18G_LlU7eOt1pkAXHckwcuG63AfukIWzo?usp=sharing)
+- [x] 10 | Medidas de Tendencia Central &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1D75tiOYjTNgl-ofUuOnh4vMXfHEPnQai?usp=sharing)
+- [x] 11 | IA para Data Analytics &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1RLXf7eIytH9czjxb141wZ9VsQ7VRempE?usp=sharing)
 _________________________________________________________________________________________________________
 ### ENTREGAS
 
@@ -48,11 +48,11 @@ ________________________________________________________________________________
 - [x] 04 | Sintaxis SQL y Manipulación de Datos 
 - [x] 05 | Consultas SQL con Join y Union 
 - [x] 06 | Historias con Datos y Gráficos Eficientes 
-- [ ] 07 | Introducción a Power BI y Transformación de Datos 
-- [ ] 08 | Dimensiones y Medidas en Power BI 
-- [ ] 09 | Gráficos y Segmentaciones en Power BI 
-- [ ] 10 | Medidas de Tendencia Central 
-- [ ] 11 | IA para Data Analytics
+- [x] 07 | Introducción a Power BI y Transformación de Datos 
+- [x] 08 | Dimensiones y Medidas en Power BI 
+- [x] 09 | Gráficos y Segmentaciones en Power BI 
+- [x] 10 | Medidas de Tendencia Central 
+- [x] 11 | IA para Data Analytics
 ______________________________________________________________________________________________________
 ### ACTIVIDADES PRÁCTICAS
 
