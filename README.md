@@ -58,7 +58,6 @@ ________________________________________________________________________________
 
 - [x] 01 | Introducción al Análisis de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/file/d/1-FxBT39cvSQmVzdmfNXYPJkhHMYNm2Ld/view?usp=sharing)
 - [x] 02 | Modelos y Diseño de Bases de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/file/d/1Wl-4i8IZGIJCC2wEidFdh8uyTZQ9tooN/view?usp=sharing)
-- [ ] 03 | Introducción a SQL y Sublenguajes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 04 | Sintaxis SQL y Manipulación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 05 | Consultas SQL con Join y Union &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 - [ ] 06 | Historias con Datos y Gráficos Eficientes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
@@ -70,7 +69,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 ### ACTUALIZACIONES DEL PROYECTO FINAL
 
-- **Última actualización - 27/12/2024**
+- **Última actualización - 01/01/2025**
     - **Entrega de Primer Pre-Entrega 22/12/2024** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGY8ChODpY/u7vdFib6uXa4anPVNzPTvg/view?utm_content=DAGY8ChODpY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06869e9c5b)
     - **Entrega de Segunda Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
     - **Entrega de Tercer Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
