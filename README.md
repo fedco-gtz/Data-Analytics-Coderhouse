@@ -69,9 +69,9 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 ### ACTUALIZACIONES DEL PROYECTO FINAL
 
-- **Última actualización - 01/01/2025**
+- **Última actualización - 13/01/2025**
     - **Entrega de Primer Pre-Entrega 22/12/2024** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGY8ChODpY/u7vdFib6uXa4anPVNzPTvg/view?utm_content=DAGY8ChODpY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06869e9c5b)
-    - **Entrega de Segunda Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
+    - **Entrega de Segunda Pre-Entrega 13/01/2025** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
     - **Entrega de Tercer Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
     - **Entrega de Proyecto Final xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
 ______________________________________________________________________________________________________
