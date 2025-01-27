@@ -36,7 +36,7 @@ ________________________________________________________________________________
 ### ENTREGAS
 
 - [x] 01 | Primer Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1fzd4JpppN3mJ_6y5tfczJ3pLCbgI4uVq?usp=sharing)
-- [ ] 02 | Segunda Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/17JCrq--RlLBycNMbAL8M7u3y0QLrzKeD?usp=sharing)
+- [X] 02 | Segunda Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/17JCrq--RlLBycNMbAL8M7u3y0QLrzKeD?usp=sharing)
 - [ ] 03 | Tercer Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/10vqb7uifL1loeMvqZOk7SxqH14zeFaI7?usp=sharing)
 - [ ] 04 | Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/17iOdx5Xhndc7DP5je6cNdcZ060gh4iT4?usp=sharing)
 ______________________________________________________________________________________________________
