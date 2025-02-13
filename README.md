@@ -13,10 +13,9 @@ ________________________________________________________________________________
 1. [Unidades](#unidades) 
 2. [Entregas](#entregas) 
 3. [Quizzes](#quizzes)  
-4. [Actividades Prácticas](#actividades-prácticas) 
-5. [Actualizaciones del Proyecto Final](#actualizaciones-del-proyecto-final)
-6. [Redes sociales y proyectos](#redes-sociales-y-proyectos)
-7. [Certificación](#certificación)
+4. [Actualizaciones del Proyecto Final](#actualizaciones-del-proyecto-final)
+5. [Redes sociales y proyectos](#redes-sociales-y-proyectos)
+6. [Certificación](#certificación)
 _________________________________________________________________________________________________________
 ### UNIDADES
 
