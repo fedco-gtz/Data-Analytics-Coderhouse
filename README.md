@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 - [x] 01 | Primer Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/1fzd4JpppN3mJ_6y5tfczJ3pLCbgI4uVq?usp=sharing)
 - [X] 02 | Segunda Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/17JCrq--RlLBycNMbAL8M7u3y0QLrzKeD?usp=sharing)
-- [ ] 03 | Tercer Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/10vqb7uifL1loeMvqZOk7SxqH14zeFaI7?usp=sharing)
+- [x] 03 | Tercer Pre-Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/10vqb7uifL1loeMvqZOk7SxqH14zeFaI7?usp=sharing)
 - [ ] 04 | Entrega del Proyecto Final &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/drive/folders/17iOdx5Xhndc7DP5je6cNdcZ060gh4iT4?usp=sharing)
 ______________________________________________________________________________________________________
 ### QUIZZES
@@ -53,26 +53,13 @@ ________________________________________________________________________________
 - [x] 09 | Gráficos y Segmentaciones en Power BI 
 - [x] 10 | Medidas de Tendencia Central 
 - [x] 11 | IA para Data Analytics
-______________________________________________________________________________________________________
-### ACTIVIDADES PRÁCTICAS
-
-- [x] 01 | Introducción al Análisis de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/file/d/1-FxBT39cvSQmVzdmfNXYPJkhHMYNm2Ld/view?usp=sharing)
-- [x] 02 | Modelos y Diseño de Bases de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">](https://drive.google.com/file/d/1Wl-4i8IZGIJCC2wEidFdh8uyTZQ9tooN/view?usp=sharing)
-- [x] 04 | Sintaxis SQL y Manipulación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [x] 05 | Consultas SQL con Join y Union &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [x] 06 | Historias con Datos y Gráficos Eficientes &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] 07 | Introducción a Power BI y Transformación de Datos &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] 08 | Dimensiones y Medidas en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] 09 | Gráficos y Segmentaciones en Power BI &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] 10 | Medidas de Tendencia Central &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
-- [ ] 11 | IA para Data Analytics &nbsp;&nbsp;[<img src="./Images/Readme/Enlace-Externo.png" alt="Enlace Logo" width="20" height="20">]()
 _________________________________________________________________________________________________________
 ### ACTUALIZACIONES DEL PROYECTO FINAL
 
-- **Última actualización - 26/01/2025**
+- **Última actualización - 12/02/2025**
     - **Entrega de Primer Pre-Entrega 22/12/2024** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGY8ChODpY/u7vdFib6uXa4anPVNzPTvg/view?utm_content=DAGY8ChODpY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06869e9c5b)
     - **Entrega de Segunda Pre-Entrega 13/01/2025** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
-    - **Entrega de Tercer Pre-Entrega xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
+    - **Entrega de Tercer Pre-Entrega 09/02/2025** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
     - **Entrega de Proyecto Final xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
 ______________________________________________________________________________________________________
 ### REDES SOCIALES Y PROYECTOS
