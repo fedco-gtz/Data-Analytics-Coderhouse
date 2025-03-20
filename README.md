@@ -55,11 +55,11 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 ### ACTUALIZACIONES DEL PROYECTO FINAL
 
-- **Última actualización - 22/02/2025**
+- **Última actualización - 19/03/2025**
     - **Entrega de Primer Pre-Entrega 22/12/2024** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGY8ChODpY/u7vdFib6uXa4anPVNzPTvg/view?utm_content=DAGY8ChODpY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06869e9c5b)
     - **Entrega de Segunda Pre-Entrega 13/01/2025** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
-    - **Entrega de Tercer Pre-Entrega 09/02/2025** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
-    - **Entrega de Proyecto Final xx/xx/xxxx** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaNxVyaU0/W5oKvUF3gK2ljhq_N1OObQ/view?utm_content=DAGaNxVyaU0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb8f80b180b)
+    - **Entrega de Tercer Pre-Entrega 09/02/2025** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGaN1EEOVE/EC9OFCnzIlEm-bHG4ypWFg/view?utm_content=DAGaN1EEOVE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h00fcac1372)
+    - **Entrega de Proyecto Final 19/30/2025** &nbsp;[<img src="./Images/Readme/Devolucion.png" alt="Devolucion Logo" width="20" height="20">](https://www.canva.com/design/DAGY8KkvbxE/MCremJN144QBy5pEVHDR1g/view?utm_content=DAGY8KkvbxE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haaf980f9f7)
 ______________________________________________________________________________________________________
 ### REDES SOCIALES Y PROYECTOS
 
@@ -106,5 +106,5 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________
 ### CERTIFICACIÓN
 
-[<img src="./Images/Readme/Certificado.png" alt="Certificado Logo" width="100" height="100">](https://www.canva.com/design/DAGY8AZYNGU/19gsoofpUrmgJZSq0vCA_Q/view?utm_content=DAGY8AZYNGU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac51791f4e)
+[<img src="./Images/Readme/Certificado.png" alt="Certificado Logo" width="100" height="100">](https://www.canva.com/design/DAGiOKA86yI/gGyl3E-RoUAXN8aEsaNeug/view?utm_content=DAGiOKA86yI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2e4bfa420)
 ______________________________________________________________________________________________________
